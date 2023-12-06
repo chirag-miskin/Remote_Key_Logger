@@ -1,4 +1,4 @@
-#This code was written by Japneet on 5th march 2022, Thanks for reading.
+
 import pynput.keyboard
 import threading
 import smtplib 
